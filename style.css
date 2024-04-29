@@ -1,5 +1,4 @@
 *{
-
     margin: 0;
     padding: 0;
 }
@@ -14,6 +13,7 @@ body{
     margin: 0;
     padding: 0;
 }
+
 main{
     flex: 1;
 }
@@ -23,7 +23,7 @@ header{
     background-image: url("images/im3.jpg");
     background-size: 100%;
     background-position: center;
-    height: 400px;
+    height: 350px;
     padding: 20px;
     min-height: 50px;
     text-align: center;
@@ -73,7 +73,8 @@ h1{
 .features {
     background: rgb(235, 196, 152);
     color: rgb(44, 20, 20);
-    padding: 20px;
+    padding: 25px;
+    height: 426px;
     display: flex;
     flex-direction: row;
   }
@@ -89,6 +90,56 @@ h1{
     box-shadow: gray 0 0 10px;
     width: 300px;
   }
+
+.descriptionmain{
+    height: 400px;
+    margin: 90px 100px 100px 100px;
+    letter-spacing: 0.7px;
+    word-spacing: 1px;
+    display: flex;
+}
+
+.descriptionmain h2{
+    margin: 20px 10px;
+    text-decoration: underline coral 2.5px;
+}
+
+.descriptionmain h3{
+    margin: 100px -350px 30px;
+}
+
+.descriptionmain p{
+    color: #452511;
+    text-align: justify;
+    margin: 160px -20px;
+    width: 650px;
+}
+ 
+.descriptionmain img{
+    margin: 1px -100px 80px 100px;
+    height: 450px;
+}
+
+.discription2{
+    height: 284px;
+    background-image: url("images/bg.jpg");
+}
+
+.discription2 .h1main{
+    color: #452511;
+    font-size: 40px;
+    margin: 20px 10px;
+    text-align: center;
+}
+
+.discription2 p{
+    color: #452511;
+    font-size: 30px;
+    margin-left: 70px;
+    margin-right: 70px;
+    margin-bottom: 40px;
+    text-align: center;
+}
 
 li:first-child {
     margin-left: 0px;
@@ -266,7 +317,7 @@ footer{
 .Aboutheader {
     background-image: none;
     margin: 10px 10px 10px 10px;
-    padding: 0;
+    padding: 20px;
     border-top: 3px solid #a89677;
     width: 100%;
     overflow: hidden;
@@ -319,4 +370,11 @@ footer{
     min-height: 50px;
     padding: 20px 20px;
     text-align: center;
+}
+
+/*стили для contact---------------------------------------------------------------------------------------------------------------------------*/
+
+.contactheader{
+    background-image: none;
+    font-family: "Forum";
 }
