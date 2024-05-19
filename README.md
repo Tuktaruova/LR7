@@ -1,4 +1,5 @@
-# Лаборатнорная работа 7
+# Практическая работа
+
 ![image](https://github.com/Tuktaruova/LR7/assets/118250481/f5046ffd-82ac-41d5-8fd1-dbca86522e01)
 ![image](https://github.com/Tuktaruova/LR7/assets/118250481/01585233-97f2-4f32-b7c9-2f7aaf4cf0db)
 ![image](https://github.com/Tuktaruova/LR7/assets/118250481/81bbfaaa-b747-49f9-8a55-7e3066a15e57)
